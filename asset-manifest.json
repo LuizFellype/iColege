@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/iColege/static/css/main.b3ae94c9.chunk.css",
+    "main.js": "/iColege/static/js/main.633f5559.chunk.js",
+    "main.js.map": "/iColege/static/js/main.633f5559.chunk.js.map",
+    "runtime-main.js": "/iColege/static/js/runtime-main.c3104d45.js",
+    "runtime-main.js.map": "/iColege/static/js/runtime-main.c3104d45.js.map",
+    "static/css/2.9ba5b96e.chunk.css": "/iColege/static/css/2.9ba5b96e.chunk.css",
+    "static/js/2.2448e5e6.chunk.js": "/iColege/static/js/2.2448e5e6.chunk.js",
+    "static/js/2.2448e5e6.chunk.js.map": "/iColege/static/js/2.2448e5e6.chunk.js.map",
+    "index.html": "/iColege/index.html",
+    "precache-manifest.e100ea88f2f26bf53d2a703c6660f52a.js": "/iColege/precache-manifest.e100ea88f2f26bf53d2a703c6660f52a.js",
+    "service-worker.js": "/iColege/service-worker.js",
+    "static/css/2.9ba5b96e.chunk.css.map": "/iColege/static/css/2.9ba5b96e.chunk.css.map",
+    "static/css/main.b3ae94c9.chunk.css.map": "/iColege/static/css/main.b3ae94c9.chunk.css.map",
+    "static/media/primereact.min.css": "/iColege/static/media/line.567f5738.gif",
+    "static/media/flat-avatar.png": "/iColege/static/media/flat-avatar.c4584a3b.png",
+    "static/media/theme.css": "/iColege/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/iColege/static/media/primeicons.b8eccb10.eot"
+  }
+}
